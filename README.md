@@ -2,6 +2,9 @@
 This project shows how to use pyqt5 to develop an application that can run on an M-csilicon.\
 本项目展示了如何利用pyqt5开发一款可以在M硅片上运行的应用。
 
+The **onnx** file can be found in this link: https://pan.baidu.com/s/1mUOyc26TpwR5BHwhF4jq7Q, and the password: 1111.
+**onnx**可以通过以下链接获取https://pan.baidu.com/s/1mUOyc26TpwR5BHwhF4jq7Q, 密码: 1111.
+
 ## Environment Configurations 环境配置
 ```bash
 pip install PyQt5
